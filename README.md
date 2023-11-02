@@ -23,7 +23,7 @@ The source of the location data primarily comes from the device's GPS and networ
 
 The main objective of this software project is to enhance skills in Android app development and deepen understanding of location-based services. The software serves as a learning tool for software engineering and as a practical utility for users interested in GPS tracking and waypoint management.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/xwsOwa_bcUQ))
 
 # Development Environment
 
